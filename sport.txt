@@ -1,3 +1,6 @@
 football
 basketball
 table tennis
+
+tennis
+swimming
