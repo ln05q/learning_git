@@ -6,4 +6,3 @@ tennis
 swimming
 table tennis
 badminton
-baseball
